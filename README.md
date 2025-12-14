@@ -16,5 +16,6 @@ Proyek ini mendemonstrasikan implementasi prinsip SOLID (SRP, OCP, DIP) pada sis
    ```
 ### Histori Perubahan (log)
 Kode dikelola menggunakan Git. 
-lihat latihan praktikum [https://github.com/Frizaa04/Praktikum-12]
+lihat latihan praktikum [https://github.com/Frizaa04/Praktikum-12]<br>
+
 lihat latihan mandiri []
